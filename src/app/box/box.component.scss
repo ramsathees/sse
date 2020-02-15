@@ -1,0 +1,31 @@
+.btn{
+  width: 100px !important;
+}
+.box-container {
+  position: relative;
+  border: 1px solid black;
+  width: 400px;
+  height: 300px;
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+.btn1{
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+.btn2{
+  position: absolute;
+  top: 30px;
+  right: 30px;
+}
+.btn3{
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+}
+.btn4{
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+}
